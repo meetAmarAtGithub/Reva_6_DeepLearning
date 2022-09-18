@@ -1,0 +1,52 @@
+Day # Theory Lab/Projects
+
+Day 1
+Introduction
+Overview of ML and DL, Basics of Neural Network,
+Introduction to Tensors, High-Level Intro to
+Backpropagation, gradient descent algorithm, Parameter
+and hyperparameter training, Introduction to TF and
+introduction to Keras as a DL framework. Training, Popular
+Deep Learning architectures, and different types of deep
+learning frameworks.
+Deep Neural Network for Regression,
+Classification
+Live use case from the web and run the
+learning of the day on them
+
+
+Day 2
+DL in Sequences & Natural Language Processing
+Deep learning for NLP, recurrent neural network basics,
+hyper Parameter tuning for RNN, text classification using
+RNN, sequence to sequence model.
+- word embedding's, word2vec, basics of LSTM, EncoderDecoder model for text classification. Character level
+sequence to sequence model, Intro to BERT model. Intro
+to Zero-Shot Model
+Deep learning for text classification
+(binary, multi-label classification)
+Deep learning for time series forecasting
+Transformers Module in Python
+Zero-Shot Model Applications
+
+
+Day 3
+DL in Image Processing & Computer Vision
+Introduction to CNN, Filters, padding, convolution layer,
+pooling layer, max pooling and average pooling, CNN and
+dropout rate. Object Detection, Semantic Segmentation
+- Quiz--- In Class
+Deep learning for image classification
+Deep Learning for Object Detection
+Deep Learning for Semantic Segmentation
+
+
+Day 4
+Advanced Concepts & Applications
+Deep learning model for text generation.
+Deep Learning for Image creation (GAN)
+Transformers in Machine Vision
+Advanced Applications GPT2/3
+Applications of GAN for image creation
+OCR using Transformers 
+
